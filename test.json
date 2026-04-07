@@ -1,14 +1,21 @@
 {
+  "_meta": {
+    "defaultImage": "https://raw.githubusercontent.com/Xemul032/Axiom_calcs/refs/heads/main/default_test.png",
+    "description": "Калькулятор расчетов"
+  },
   "type1": {
     "formula1": "H + (2 * W) + 29",
     "formula2": "(2 * L) + (2 *  H) + 15"
+    "image": "https://raw.githubusercontent.com/Xemul032/Axiom_calcs/refs/heads/main/test1.png"
   },
   "type2": {
     "formula1": "L * W * H",
-    "formula2": "L * H"
+    "formula2": "2 * (L * W + L * H + W * H)",
+    "image": "https://raw.githubusercontent.com/Xemul032/Axiom_calcs/refs/heads/main/test2.png"
   },
   "профиль": {
     "formula1": "L + W",
-    "formula2": "L * 2"
+    "formula2": "L * 2 + W * 2"
+    // image не указан - будет использован defaultImage из _meta
   }
 }
