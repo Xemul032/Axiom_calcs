@@ -16,6 +16,5 @@
   "профиль": {
     "formula1": "L + W",
     "formula2": "L * 2 + W * 2"
-    // image не указан - будет использован defaultImage из _meta
   }
 }
