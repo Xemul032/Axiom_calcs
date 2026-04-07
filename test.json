@@ -1,0 +1,14 @@
+{
+  "type1": {
+    "formula1": "H + (2 * W) + 29",
+    "formula2": "(2 * L) + (2 *  H) + 15"
+  },
+  "type2": {
+    "formula1": "L * W * H",
+    "formula2": "L * H"
+  },
+  "профиль": {
+    "formula1": "L + W",
+    "formula2": "L * 2"
+  }
+}
