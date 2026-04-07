@@ -5,7 +5,7 @@
   },
   "type1": {
     "name": "Обыкновенная коробка",
-    "formula1": "H + (2 * W) + 29",
+    "formula1": "H + (2 * W) + ((W * 0,2) * 2)",
     "formula2": "(2 * L) + (2 * W) + 15",
     "image": "https://raw.githubusercontent.com/Xemul032/Axiom_calcs/main/test1.png"
   },
