@@ -1,19 +1,22 @@
 {
   "_meta": {
-    "defaultImage": "https://raw.githubusercontent.com/Xemul032/Axiom_calcs/refs/heads/main/default_test.png",
+    "defaultImage": "https://raw.githubusercontent.com/Xemul032/Axiom_calcs/main/default_test.png",
     "description": "Калькулятор расчетов"
   },
   "type1": {
+    "name": "Обыкновенная коробка",
     "formula1": "H + (2 * W) + 29",
-    "formula2": "(2 * L) + (2 * H) + 15",
-    "image": "https://raw.githubusercontent.com/Xemul032/Axiom_calcs/refs/heads/main/test1.png"
+    "formula2": "(2 * L) + (2 * W) + 15",
+    "image": "https://raw.githubusercontent.com/Xemul032/Axiom_calcs/main/test1.png"
   },
   "type2": {
+    "name": "Коробка с самосборным дном",
     "formula1": "L * W * H",
     "formula2": "2 * (L * W + L * H + W * H)",
-    "image": "https://raw.githubusercontent.com/Xemul032/Axiom_calcs/refs/heads/main/test2.png"
+    "image": "https://raw.githubusercontent.com/Xemul032/Axiom_calcs/main/test2.png"
   },
   "профиль": {
+    "name": "Коробка хуёбка",
     "formula1": "L + W",
     "formula2": "L * 2 + W * 2"
   }
