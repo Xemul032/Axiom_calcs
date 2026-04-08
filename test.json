@@ -7,17 +7,20 @@
     "name": "Обыкновенная коробка",
     "formula1": "H + (2 * W) + ((W * 0.2) * 2)",
     "formula2": "(2 * L) + (2 * W) + 15",
-    "image": "https://raw.githubusercontent.com/Xemul032/Axiom_calcs/main/test1.png"
+    "image": "https://raw.githubusercontent.com/Xemul032/Axiom_calcs/main/test1.png",
+    "dieCost1000": 11415
   },
   "type2": {
     "name": "Коробка с самосборным дном",
     "formula1": "L * W * H",
     "formula2": "2 * (L * W + L * H + W * H)",
-    "image": "https://raw.githubusercontent.com/Xemul032/Axiom_calcs/main/test2.png"
+    "image": "https://raw.githubusercontent.com/Xemul032/Axiom_calcs/main/test2.png",
+    "dieCost1000": 15000
   },
   "профиль": {
     "name": "Коробка хуёбка",
     "formula1": "L + W",
-    "formula2": "L * 2 + W * 2"
+    "formula2": "L * 2 + W * 2",
+    "dieCost1000": 15000
   }
 }
